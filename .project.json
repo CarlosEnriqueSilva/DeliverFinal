@@ -1,0 +1,19 @@
+{
+    "dataBinding": {
+        "/webapp/view/Inventory.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Historical.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Providers.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/CreateProvider.view.xml": {
+            "entitySet": "/SupplierSet"
+        }, 
+        "/webapp/view/PurchaseCreate.view.xml": {
+            "entitySet": "/ProductSet"
+        } 
+    }
+}
